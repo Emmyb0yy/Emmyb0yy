@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmyb0yy
+- 👋 Hi, I’m @Emmyb0y
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning about web3
 - 💞️ I’m looking to collaborate on anything web3
