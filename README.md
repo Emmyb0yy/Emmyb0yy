@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmyb0y
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning about web3
-- 💞️ I’m looking to collaborate on anything web3
+- 👀 I’m interested in Web3, Cryptocurrency & Tech
+- 🌱 I’m currently learning about web3, and some basic tech/IT 
+- 💞️ I’m looking to collaborate on anything & everything web3, IT & Tech
 - 📫 How to reach me ...
 Email @ emmanuelehiwe301@gmail.com
 <!---
